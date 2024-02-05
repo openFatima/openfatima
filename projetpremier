@@ -1,0 +1,47 @@
+fatima.0021@hotmail.fr MINGW64 ~
+$ cd Documents
+
+fatima.0021@hotmail.fr MINGW64 ~/Documents
+$ mkdir Premierprojet
+
+fatima.0021@hotmail.fr4 MINGW64 ~/Documents
+$ cd premierprojet
+
+fatima.0021@hotmail.fr4 MINGW64 ~/Documents/premierprojet
+$ git config --global user.name "Fatima Siby"
+fatima.0021@hotmail.fr ~/Documents/premierprojet
+$ git cinfig --global user.email fatima.0021@hotmail.fr
+fatima.0021@hotmail.fr MINGW64 ~/Documents/premierprojet
+$ git config --global color.diff auto
+
+fatima.0021@hotmail.fr MINGW64 ~/Documents/premierprojet
+$ git config --global color.statue auto
+
+
+fatima.0021@hotmail.fr MINGW64 ~/Documents/premierprojet
+ 
+
+fatima.0021@hotmail.fr MINGW64 ~/Documents/premierprojet
+$ git config --global color.branch auto
+
+
+fatima.0021@hotmail.fr MINGW64 ~/Documents/premierprojet
+
+$ git config --global core.editor vim
+
+
+fatima.0021@hotmail.fr MINGW64 ~/Documents/premierprojet
+$ git config --global merge.tool vimdiff
+
+
+fatima.0021@hotmail.fr MINGW64 ~/Documents/premierprojet
+$ git init
+Initialized empty Git repository in C:/Users/konat/Documents/Premierprojet/.git/
+
+
+fatima.0021@hotmail.frMINGW64 ~/Documents/premierprojet (master)
+$ cd Document/PremierProjet
+bash: cd: Document/PremierProjet: No such file or directory
+
+fatima.0021@hotmail.fr MINGW64 ~/Documents/premierprojet (master)
+$
